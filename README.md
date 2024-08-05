@@ -7,13 +7,13 @@ This dataset focuses on Target's operations in Brazil, covering 100,000 orders p
 # Features
 The data is available in 8 csv files:
 
-customers.csv
-sellers.csv
-order_items.csv
-geolocation.csv
-payments.csv
-orders.csv
-products.csv
+1)customers.csv  <br />
+2)sellers.csv  <br />
+3)order_items.csv  <br />
+4)geolocation.csv  <br />
+5)payments.csv  <br />
+6)orders.csv  <br />
+7)products.csv  <br />
 # Potential Use Cases
 Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
 
